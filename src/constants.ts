@@ -1,6 +1,6 @@
 import { CityPreset } from "./types";
 
-export const DECUL_LOGO = "/assets/icon.svg";
+export const DECUL_LOGO = "/assets/icon.png";
 
 export const CITY_PRESETS: CityPreset[] = [
   {
